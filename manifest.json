@@ -1,0 +1,12 @@
+{
+  "name": "🌕 Emoji Header",
+  "version": "0.0.1",
+  "description": "A plugin to add and remove emoji🌕 prefixes from headers in Obsidian.",
+  "author": "Rainbow Prince🐟",
+  "authorUrl": "https://yourwebsite.com",
+  "isDesktopOnly": false,
+  "fundingUrl": "https://yourdonationlink.com",
+  "minAppVersion": "0.12.0",
+  "id": "obsidian-header-prefix-plugin",
+  "main": "main.js"
+}
